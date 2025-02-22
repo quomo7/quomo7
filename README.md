@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a beginner to the IT industry. I am currrently learning how to navigate and operate in Github and the cloud. I see apps, games and coded music as completed goals for my future🫰
 <!--
 **quomo7/quomo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
